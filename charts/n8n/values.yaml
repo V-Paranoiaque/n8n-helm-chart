@@ -334,3 +334,6 @@ redis:
       enabled: true
       existingClaim: ""
       size: 2Gi
+
+extraVolumes: []
+extraVolumeMounts: []
